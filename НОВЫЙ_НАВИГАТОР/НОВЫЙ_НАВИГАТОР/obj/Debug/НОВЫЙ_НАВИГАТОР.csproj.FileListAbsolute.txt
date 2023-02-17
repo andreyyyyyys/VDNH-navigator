@@ -1,0 +1,12 @@
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\bin\Debug\НОВЫЙ_НАВИГАТОР.exe.config
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\bin\Debug\НОВЫЙ_НАВИГАТОР.exe
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\bin\Debug\НОВЫЙ_НАВИГАТОР.pdb
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.csproj.AssemblyReference.cache
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.csproj.SuggestedBindingRedirects.cache
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.Form1.resources
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.Form2.resources
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.Properties.Resources.resources
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.csproj.GenerateResource.cache
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.csproj.CoreCompileInputs.cache
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.exe
+G:\SHP\НОВЫЙ_НАВИГАТОР\НОВЫЙ_НАВИГАТОР\obj\Debug\НОВЫЙ_НАВИГАТОР.pdb
